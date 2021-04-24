@@ -1,0 +1,12 @@
+{
+    "name": "Extrovert",
+    "version": "0.1.0",
+    "keywords": "lineprotocol, influxdb, syslog",
+    "description": "Library to make your embedded device speak to your network and the outside world in various formats.",
+    "authors": [
+        { "name": "supakeen", "url": "https://supakeen.com/" }
+    ],
+    "repository": { "type": "git", "url": "https://github.com/PubliekProject/Extrovert" },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
